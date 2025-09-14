@@ -47,13 +47,17 @@ Search for any keyword to fetch and display matching news articles.
 
 ## 📸 Demo / Screenshots  
 
-*(Add screenshots of your app here, e.g., homepage, search results, category view)*  
+### 🏠 Home Page  
+![Home Page](./News%20api/screenshots/1.jpg)  
 
-```markdown
-![Home Page](./screenshots/1.png)  
-![Search Results](./screenshots/2.png)  
-![Health Category](./screenshots/3.png)
-![Sports Category](./screenshots/4.png) 
+### 🔎 Search Results  
+![Search Results](./News%20api/screenshots/2.jpg)  
 
+### 🩺 Health Category  
+![Health Category](./News%20api/screenshots/3.jpg)  
 
+### ⚽ Sports Category  
+![Sports Category](./News%20api/screenshots/4.jpg)  
+ 
 
+---
