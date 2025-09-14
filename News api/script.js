@@ -1,5 +1,5 @@
 // API Configuration
-const API_KEY = '33ed88d224324f3ea201fc8f741cba16';
+const API_KEY = '';
 const BASE_URL = 'https://newsapi.org/v2/top-headlines';
 
 
@@ -382,4 +382,5 @@ function showSearchSuggestions() {
 
 function hideSearchSuggestions() {
     searchSuggestions.classList.add('hidden');
+
 } 
